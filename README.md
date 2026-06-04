@@ -16,6 +16,6 @@ This final year project investigates the therapeutic potential of Kochiae Fructu
 - MAPK1, MAPK3, AKT1, STAT3, TP53, BCL2, BCL2L1, PIK3CB, JUN and CASP3 were identified as major hub genes.
 - Oleanolic acid showed strong binding affinity with multiple target proteins.
 ## Author
-Hafiza Tayyba Chaudhry
-BS Bioinformatics
-University of Agriculture Faisalabad
+- Hafiza Tayyba Chaudhry
+- BS Bioinformatics
+- University of Agriculture Faisalabad
