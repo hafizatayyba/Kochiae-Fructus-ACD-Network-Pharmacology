@@ -19,6 +19,3 @@ This final year project investigates the therapeutic potential of Kochiae Fructu
 Hafiza Tayyba Chaudhry
 BS Bioinformatics
 University of Agriculture Faisalabad
-Department of Computer Science
-
-University of Agriculture Faisalabad
